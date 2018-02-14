@@ -1,0 +1,13 @@
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\SchedulingAssistantUnitTest.dll
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\SchedulingAssistantUnitTest.pdb
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\SchedulingAssistant.exe
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\ClosedXML.dll
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\itextsharp.dll
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\SchedulingAssistant.pdb
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\ClosedXML.pdb
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\bin\Debug\itextsharp.xml
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\obj\Debug\SchedulingAssistantUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\obj\Debug\SchedulingAssistantUnitTest.dll
+C:\Users\S528754\Documents\Visual Studio 2015\Projects\SchedulingAssistant\SchedulingAssistantUnitTest\obj\Debug\SchedulingAssistantUnitTest.pdb
